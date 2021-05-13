@@ -1,5 +1,7 @@
 # DynamicPDF Demo
 
+# UPDATE: issue fixed in version 3.14 of ceTe.DynamicPDF.Rasterizer.NET
+
 This is a demo .NET Core Web API using [ceTe.DynamicPDF.Rasterizer.NET](https://www.nuget.org/packages/ceTe.DynamicPDF.Rasterizer.NET/) to draw images based on a PDF document.
 
 It was created in order to easily reproduce an issue using Rasterizer. The issue consists of a vertical stripe of pixels of a different colour on the left side of the image. This appears to be more frequent on images with landscape orientation.
