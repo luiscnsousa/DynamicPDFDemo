@@ -1,9 +1,5 @@
-﻿using System;
-using System.IO;
-using System.Linq;
-using ceTe.DynamicPDF.Rasterizer;
+﻿using ceTe.DynamicPDF.Rasterizer;
 using DynamicPDFSample.Models;
-using Microsoft.Extensions.Logging;
 
 namespace DynamicPDFSample.Services
 {

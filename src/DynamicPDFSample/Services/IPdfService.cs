@@ -1,5 +1,4 @@
-﻿using System.IO;
-using DynamicPDFSample.Models;
+﻿using DynamicPDFSample.Models;
 
 namespace DynamicPDFSample.Services
 {
